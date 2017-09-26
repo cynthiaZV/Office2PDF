@@ -2,8 +2,9 @@
 
 Simple CLI to convert Microsoft Office document types to PDF as well as PDF to MS Word.
 ### Requirements
-Computer with MS Window
-Microsoft Office 2013+ installed
+
+- Computer with MS Window
+- Microsoft Office 2013+ installed
 
 ### Supported conversions
 | Source Extension | Destination Extension |
